@@ -1,5 +1,5 @@
 Year,Country,AI Publication Share (%),AI Total Publications,AI Investment Billion USD,Government AI Spending In Billions(USD),Private AI Investment In Billions(USD),AI Companies Count,AI Startups Count,AI Patents Share (%),R&D Expenditure (% of GDP),AI Growth Rate (%)
-2010,China,12,20000,3.0,1.2,1.8,800,300,20,1.71,
+2010,China,12,20000,3.0,1.2,1.8,800,300,20,1.71, 0.0
 2011,China,13,23000,3.5,1.4,2.1,900,350,22,1.78,15.0
 2012,China,14,26000,4.0,1.6,2.4,1000,400,25,1.91,14.0
 2013,China,16,30000,4.8,2.0,2.8,1200,500,28,2.0,18.0
