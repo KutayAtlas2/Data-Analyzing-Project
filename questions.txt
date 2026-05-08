@@ -20,3 +20,12 @@ Based on current trajectories, what is the projected AI_Companies_Count and AI T
     The Action: Use a basic Time Series model (like a Trendline or Simple Moving Average) to forecast the count of companies through 2029.
     
     The Goal: End presentation with a "Future Look" slide.
+When did China experience a significant acceleration on AI Growth?
+    The Action: Make a graph for AI growth Percentage.
+
+    The Goal: Identify which year there is a spike.
+Is there a lag between R&D Expenditure and AI Patents Share
+
+    The Action: Make a double line graph for R&D Expenditure and AI Patents Share
+
+    The Goal:  Identify if the increase in R&D Expenditure budget affects the next years AI Patents Share
