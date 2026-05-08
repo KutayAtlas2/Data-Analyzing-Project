@@ -16,7 +16,7 @@ Which factor is the strongest predictor of the AI_Growth_Rate (%)?
     
     The Goal: Summarize the entire dataset into a single insight: "For every 1% increase in R&D Expenditure, the AI Growth Rate increases by $X$ percent."
 
- Based on current trajectories, what is the projected AI_Companies_Count for the next 3 years?
+Based on current trajectories, what is the projected AI_Companies_Count and AI Total Publications for the next 3 years?
     The Action: Use a basic Time Series model (like a Trendline or Simple Moving Average) to forecast the count of companies through 2029.
     
     The Goal: End your presentation with a "Future Look" slide. Even a simple polynomial fit ($y = ax^2 + bx + c$) will allow you to show a predicted curve that suggests either continued exponential growth or a market plateau.
