@@ -29,3 +29,13 @@ Is there a lag between R&D Expenditure and AI Patents Share
     The Action: Make a double line graph for R&D Expenditure and AI Patents Share
 
     The Goal:  Identify if the increase in R&D Expenditure budget affects the next years AI Patents Share
+
+
+Q1-What is the historical "decoupling" point between AI Research (Publications) and AI Commercialization (Patents)?
+Q2-Does Government spending act as a "Catalyst" or a "Safety Net" for Private Investment?
+Q3-Which factor is the strongest predictor of the AI_Growth_Rate (%)?
+Q4-Based on current trajectories, what is the projected AI_Companies_Count and AI Total Publications for the next 3 years?
+Q5-When did China experience a significant acceleration on AI Growth?
+Q6-Is there a lag between R&D Expenditure and AI Patents Share?
+Q7-Is China's groweth sustainable in the long term, or is it likely to face a slowdown or plateau in the future?
+Q8-Is Chinas growth in AI Linear or Exponential?
