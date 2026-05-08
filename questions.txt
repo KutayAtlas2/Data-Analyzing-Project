@@ -37,5 +37,5 @@ Q3-Which factor is the strongest predictor of the AI_Growth_Rate (%)?
 Q4-Based on current trajectories, what is the projected AI_Companies_Count and AI Total Publications for the next 3 years?
 Q5-When did China experience a significant acceleration on AI Growth?
 Q6-Is there a lag between R&D Expenditure and AI Patents Share?
-Q7-Is China's groweth sustainable in the long term, or is it likely to face a slowdown or plateau in the future?
+Q7-Is China's growth sustainable in the long term, or is it likely to face a slowdown or plateau in the future?
 Q8-Is Chinas growth in AI Linear or Exponential?
