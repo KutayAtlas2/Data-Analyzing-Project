@@ -1,0 +1,22 @@
+Why did the 1. Question happen and what caused it
+   Why: AI research is theoretical, but AI patents are often about Applications (Facial recognition, autonomous driving, logistics).
+
+   The Cause: China’s massive "Data Reservoir" (from its huge population and digitized economy) made it easier to turn a 
+   theoretical paper into a patentable, real-world tool. Basically China reached critical knowledge point and needed applications more
+   that theory.
+
+   How: In 2017, the Chinese State Council issued the "New Generation Artificial Intelligence Development Plan" (AIDP).
+
+   The Cause: This was an explicit government mandate to become the world leader in AI by 2030.
+
+   A drop in 2019 is also apparent. That looks like its caused by covid-19 lockdown but actually,
+   China’s new issue to stop junk patenting to get government rewards and shift in strategic focus caused it.
+
+Why is the R&D Expenditure in 3. Question the biggest factor in AI growth.
+   A $1 billion private investment might help one company grow. A 1% shift in GDP toward R&D funds 500 different laboratories.
+   This budget pays for PhD programs and university research centers. These institutions produce the engineers that startups eventually hire.
+   When the government commits a higher percentage of GDP to R&D, it acts as a "green light" 
+   for the entire economy. It reduces the perceived risk for everyone else.
+
+
+   
